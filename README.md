@@ -120,4 +120,4 @@ rag_app/
 
 ## 👤 Author
 
-[Your Name] – [Your GitHub]
+Anmol Airi – https://github.com/anmolairi03/pan-science-rag-pipeline/
